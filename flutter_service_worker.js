@@ -3,7 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3a86e2bdb7d1b0f682e610f3667d3a5d",
+  ".idea/misc.xml": "e6b023077aa4876dbe12734108325458",
+".idea/modules.xml": "1eb3b065c55895e347308e50cd717dee",
+".idea/web.iml": "52db5efd0fe9f576a1302b8c4b5eac6c",
+".idea/workspace.xml": "375c7b343da4e2225b7751939a4259a4",
+"assets/AssetManifest.json": "3a86e2bdb7d1b0f682e610f3667d3a5d",
 "assets/assets/fonts/Cairo-Black.ttf": "c3da5664903bac89a1e5a6f38e47a778",
 "assets/assets/fonts/Cairo-Bold.ttf": "ef55322bc2031017175022b779940cb0",
 "assets/assets/fonts/Cairo-ExtraBold.ttf": "0645b8a99ffdc54a258b3eb7f6d160b9",
@@ -87,9 +91,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "44878c6eaf8049d2e10451e8c3c6459a",
 "icons/Icon-maskable-192.png": "836a8a57bbd468b20d64817b9f721a49",
 "icons/Icon-maskable-512.png": "44878c6eaf8049d2e10451e8c3c6459a",
-"index.html": "9dced6b97c8ab040398b7f82ff95ac98",
-"/": "9dced6b97c8ab040398b7f82ff95ac98",
-"main.dart.js": "f7571f32a49eafefb060f2e1ec08a0ab",
+"index.html": "5e741e2b90fbd4661813f9fec4e38aa4",
+"/": "5e741e2b90fbd4661813f9fec4e38aa4",
+"main.dart.js": "13eec2b2c31adf0ad6821c0b497cd077",
 "manifest.json": "8c91ea65aec78a4079ddcb2501ad4f1d",
 "version.json": "49a253778b268127a901029a28595ea1"
 };
