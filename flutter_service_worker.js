@@ -3,11 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  ".idea/misc.xml": "e6b023077aa4876dbe12734108325458",
-".idea/modules.xml": "1eb3b065c55895e347308e50cd717dee",
-".idea/web.iml": "52db5efd0fe9f576a1302b8c4b5eac6c",
-".idea/workspace.xml": "375c7b343da4e2225b7751939a4259a4",
-"404.html": "4ae5e609673108af144d00d102e2a48a",
+  "404.html": "4ae5e609673108af144d00d102e2a48a",
 "assets/AssetManifest.json": "3a86e2bdb7d1b0f682e610f3667d3a5d",
 "assets/assets/fonts/Cairo-Black.ttf": "c3da5664903bac89a1e5a6f38e47a778",
 "assets/assets/fonts/Cairo-Bold.ttf": "ef55322bc2031017175022b779940cb0",
@@ -80,7 +76,6 @@ const RESOURCES = {
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Typewriter-Regular.ttf": "87f56927f1ba726ce0591955c8b3b42d",
 "assets/packages/flutter_paypal/lib/src/assets/img/cloud_state.png": "e695e021561a6d9754f06038b4d6b1d9",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
-"assets/shaders/ink_sparkle.frag": "fb26d63db777dea0a21a98145a15053e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
@@ -92,9 +87,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "44878c6eaf8049d2e10451e8c3c6459a",
 "icons/Icon-maskable-192.png": "836a8a57bbd468b20d64817b9f721a49",
 "icons/Icon-maskable-512.png": "44878c6eaf8049d2e10451e8c3c6459a",
-"index.html": "154c646b3bb499850f0d947eb00cede5",
-"/": "154c646b3bb499850f0d947eb00cede5",
-"main.dart.js": "25ea6f394eba2fd9ed3123227f845b00",
+"index.html": "9123c836a7670ab9e777ea165a0f0814",
+"/": "9123c836a7670ab9e777ea165a0f0814",
+"main.dart.js": "2bfd47ada3df380f34d7f08ca13eb68d",
 "manifest.json": "8c91ea65aec78a4079ddcb2501ad4f1d",
 "version.json": "49a253778b268127a901029a28595ea1"
 };
