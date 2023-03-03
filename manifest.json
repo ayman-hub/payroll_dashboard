@@ -1,6 +1,6 @@
 {
-    "name": "payroll_dashboard",
-    "short_name": "payroll_dashboard",
+    "name": "payroll",
+    "short_name": "payroll",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
